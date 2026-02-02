@@ -1,5 +1,7 @@
 # Project "wasm_plugins"
 
+![wasm_plugins](example.png)
+
 ## Brief overview
 
 This repository contains a set of utilities and libraries for packaging, verifying, decrypting, and executing WebAssembly plugins packaged in a custom container format `.mylib` (version 2).
